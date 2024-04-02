@@ -54,7 +54,6 @@ var coreBidderNames []BidderName = []BidderName{
 	BidderApacdex,
 	BidderAppnexus,
 	BidderAppush,
-	BidderAso,
 	BidderAudienceNetwork,
 	BidderAutomatad,
 	BidderAvocet,
@@ -96,6 +95,7 @@ var coreBidderNames []BidderName = []BidderName{
 	BidderEdge226,
 	BidderDmx,
 	BidderDXKulture,
+	BidderEmetriq,
 	BidderEmtv,
 	BidderEmxDigital,
 	BidderEPlanning,
@@ -337,7 +337,6 @@ const (
 	BidderApacdex           BidderName = "apacdex"
 	BidderAppnexus          BidderName = "appnexus"
 	BidderAppush            BidderName = "appush"
-	BidderAso               BidderName = "aso"
 	BidderAudienceNetwork   BidderName = "audienceNetwork"
 	BidderAutomatad         BidderName = "automatad"
 	BidderAvocet            BidderName = "avocet"
